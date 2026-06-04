@@ -7,11 +7,10 @@ built as a front-end development project.
 > *(Add your GitHub Pages link here once deployed)*
 
 ## Screenshots
-<img width="1361" height="642" alt="image" src="https://github.com/user-attachments/assets/db51edba-7ef7-4850-98a2-1212a25ab183" />
-<img width="1351" height="652" alt="image" src="https://github.com/user-attachments/assets/030f71a7-aac9-4500-85ce-8b95e5061d8f" />
-<img width="1360" height="646" alt="image" src="https://github.com/user-attachments/assets/e7d38c0a-1c63-485d-9aac-c9400a441b77" />
-<img width="1354" height="647" alt="image" src="https://github.com/user-attachments/assets/90a2bcc2-48c6-4993-9495-f0f83522318f" />
-
+<img width="1361" height="642" alt="bold-gym-screenshot1" src="https://github.com/user-attachments/assets/3660872e-6759-46fa-b3ed-d9a735e82d9b" />
+<img width="1351" height="652" alt="bold-gym-screenshot2" src="https://github.com/user-attachments/assets/c567a8de-2be0-4747-88bd-9186b83ebbce" />
+<img width="1360" height="646" alt="bold-gym-screenshot3" src="https://github.com/user-attachments/assets/e7a91308-521e-4627-b019-a81b5b58fc9d" />
+<img width="1354" height="647" alt="bold-gym-screenshot4" src="https://github.com/user-attachments/assets/9ddb6091-1e2a-44ca-9e57-07fa3e9a69e6" />
 
 ## Features
 - Sticky header with scroll-triggered background blur
