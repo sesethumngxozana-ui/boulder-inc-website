@@ -4,7 +4,7 @@ A fully responsive multi-section website for a fictional bouldering gym,
 built as a front-end development project.
 
 ## Live Demo
-> *(Add your GitHub Pages link here once deployed)*
+https://sesethu-portfolio.vercel.app/
 
 ## Screenshots
 <img width="1361" height="642" alt="bold-gym-screenshot1" src="https://github.com/user-attachments/assets/3660872e-6759-46fa-b3ed-d9a735e82d9b" />
